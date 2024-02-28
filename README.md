@@ -2,20 +2,10 @@
 
 ## 前端代码
 
-请切换到 `minio-upload-web` 分支
-
-> 切换命令
-```shell
-git checkout -b minio-upload-web origin/minio-upload-web
-```
+请移动到 [minio-upload-web](https://github.com/roukaixin/minio-upload-web) 仓库
 
 
 
 ## 后端代码
 
-请切换到 `minio-upload-api` 分支
-
-> 切换命令
-```shell
-git checkout -b minio-upload-api origin/minio-upload-api
-```
+请移动到 [minio-upload-server](https://github.com/roukaixin/minio-upload-server) 仓库
